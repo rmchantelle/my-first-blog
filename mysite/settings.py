@@ -89,7 +89,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Harare/Pretoria'
+TIME_ZONE = 'Africa/Harare'
 
 USE_I18N = True
 
